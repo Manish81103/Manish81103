@@ -1,6 +1,8 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/0*JgJGHBhL8gkjYk_3.jpg
+)]
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/7kwxbDXfbw2bvTzN7">
+<img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/3896/3896610.png">
 
 
 
