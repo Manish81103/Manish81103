@@ -1,6 +1,4 @@
 
-# Project Title
-
 [![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/0*JgJGHBhL8gkjYk_3.jpg
 )]
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
