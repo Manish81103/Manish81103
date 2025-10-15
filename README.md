@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish81103&label=Profile%20views&color=0e75b6&style=flat" alt="manish81103" /> </p>
 
-- 💬 Ask me about **Data Science and Analytics , Python , ML , SQL , Excel , Power Bi**
+- 💬 Ask me about **Data Science and Analytics , Python , Numpy , Pandas , Machine Learning , SQL , Excel , Power Bi**
 
 - 📫 How to reach me **manishsingh8112003@gmail.com**
 
